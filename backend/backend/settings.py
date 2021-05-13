@@ -131,7 +131,7 @@ DATABASES = {
 
         'USER': 'postgres',
 
-        'PASSWORD': get_secret('DB_PASSWORD'),
+        'PASSWORD': 'thegreedydog18',
 
         'HOST': 'localhost',
 
